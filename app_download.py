@@ -16,7 +16,7 @@ st.title("Adult Income Prediction - ML Models")
 MODEL_FILES = {
     'Logistic Regression': 'models/model_logistic_regression.pkl',
     'Decision Tree': 'models/model_decision_tree.pkl',
-    'K-Nearest Neighbor': 'moedls/model_k_nearest_neighbor.pkl',
+    'K-Nearest Neighbor': 'models/model_k_nearest_neighbor.pkl',
     'Naive Bayes': 'models/model_naive_bayes.pkl',
     'Random Forest': 'models/model_random_forest.pkl',
     'XGBoost': 'models/model_xgboost.pkl'
